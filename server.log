@@ -1,0 +1,34 @@
+[Mon Jul 14 22:42:10 2025] PHP 8.2.28 Development Server (http://0.0.0.0:12000) started
+[Mon Jul 14 22:42:17 2025] 127.0.0.1:38216 Accepted
+[Mon Jul 14 22:42:17 2025] 127.0.0.1:38216 [404]: HEAD /
+[Mon Jul 14 22:42:17 2025] 127.0.0.1:38216 Closing
+[Mon Jul 14 22:42:21 2025] 127.0.0.1:48110 Accepted
+[Mon Jul 14 22:42:21 2025] 127.0.0.1:48110 [200]: GET /auth/login
+[Mon Jul 14 22:42:21 2025] 127.0.0.1:48110 Closing
+[Mon Jul 14 22:44:02 2025] 10.2.38.10:37810 Accepted
+[Mon Jul 14 22:44:02 2025] 10.2.38.10:37810 [302]: GET /
+[Mon Jul 14 22:44:02 2025] 10.2.38.10:37810 Closing
+[Mon Jul 14 22:44:02 2025] 127.0.0.1:36328 Accepted
+[Mon Jul 14 22:44:02 2025] 127.0.0.1:36328 [200]: GET /auth/login
+[Mon Jul 14 22:44:02 2025] 127.0.0.1:36328 Closing
+[Mon Jul 14 22:44:02 2025] 127.0.0.1:36338 Accepted
+[Mon Jul 14 22:44:02 2025] 127.0.0.1:36352 Accepted
+[Mon Jul 14 22:44:02 2025] 127.0.0.1:36338 [404]: GET /assets/css/style.css - No such file or directory
+[Mon Jul 14 22:44:02 2025] 127.0.0.1:36338 Closing
+[Mon Jul 14 22:44:02 2025] 127.0.0.1:36352 [200]: GET /assets/js/app.js
+[Mon Jul 14 22:44:02 2025] 127.0.0.1:36352 Closing
+[Mon Jul 14 22:44:12 2025] 127.0.0.1:45018 Accepted
+[Mon Jul 14 22:44:12 2025] 127.0.0.1:45018 [303]: POST /auth/login
+[Mon Jul 14 22:44:12 2025] 127.0.0.1:45018 Closing
+[Mon Jul 14 22:44:12 2025] 127.0.0.1:45024 Accepted
+[Mon Jul 14 22:44:12 2025] 127.0.0.1:45024 [200]: GET /
+[Mon Jul 14 22:44:12 2025] 127.0.0.1:45024 Closing
+[Mon Jul 14 22:44:12 2025] 127.0.0.1:45028 Accepted
+[Mon Jul 14 22:44:12 2025] 127.0.0.1:45042 Accepted
+[Mon Jul 14 22:44:12 2025] 127.0.0.1:45028 [404]: GET /assets/css/style.css - No such file or directory
+[Mon Jul 14 22:44:12 2025] 127.0.0.1:45028 Closing
+[Mon Jul 14 22:44:12 2025] 127.0.0.1:45042 [200]: GET /assets/js/app.js
+[Mon Jul 14 22:44:12 2025] 127.0.0.1:45042 Closing
+[Mon Jul 14 22:45:06 2025] 10.2.97.11:42468 Accepted
+[Mon Jul 14 22:45:06 2025] 10.2.97.11:42468 [302]: GET /
+[Mon Jul 14 22:45:06 2025] 10.2.97.11:42468 Closing
