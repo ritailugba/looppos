@@ -62,8 +62,8 @@
                                             <td>$<?= number_format($product['cost'], 2) ?></td>
                                             <td>$<?= number_format($product['price'], 2) ?></td>
                                             <td>
-                                                <span class="badge <?= $product['stock_quantity'] <= ($product['min_stock'] ?? 0) ? 'bg-danger' : 'bg-success' ?>">
-                                                    <?= $product['stock_quantity'] ?>
+                                                <span class="badge <?= $product['quantity'] <= ($product['alert_quantity'] ?? 0) ? 'bg-danger' : 'bg-success' ?>">
+                                                    <?= $product['quantity'] ?>
                                                 </span>
                                             </td>
                                             <td>

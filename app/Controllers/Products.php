@@ -34,7 +34,7 @@ class Products extends BaseController
         }
 
         $data = [
-            'products' => $builder->findAll(),
+            'products' => $builder->get()->getResultArray(),
             'categories' => $this->categoryModel->findAll(),
             'supplierF' => $supplier,
             'typeF' => $type,
